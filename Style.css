@@ -1,0 +1,25 @@
+input {
+    margin: 10px;
+}
+
+h3 {
+    font-family: ink free;
+}
+
+body {
+    font-family: ink free;
+}
+
+#Sub_001 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: ink free;
+    background-color: red;
+}
+
+#Sor_001 {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: ink free;
+}
